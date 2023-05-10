@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello everyone 👋 my name is Vladislav. 
+#### I am a Python developer from Siberia. ✨
+### My technology stack and tools
+- Python, Django, Django Rest Framework
+- HTML, CSS, Bootstrap
+- Nginx, Gunicorn, YandexCloud
+- Docker, CI/CD
 
-<!--
-**nevladi/nevladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Open to new and interesting projects! 🔭
+###### Contact with me 💬:
+- [Telegram](https://t.me/ne_vladi)
+- [Gmail](nestern8@gmail.com)### Hi there 👋
