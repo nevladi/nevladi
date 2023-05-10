@@ -9,4 +9,4 @@
 ##### Open to new and interesting projects! 🔭
 ##### Contact with me: 💬
 - [Telegram](https://t.me/ne_vladi)
-- [Gmail](nestern8@gmail.com)
+- [Gmail](mailto:nestern8@gmail.com)
